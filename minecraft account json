@@ -1,0 +1,23 @@
+{
+  "activeAccountLocalId": "4775f2e6612049eba670edc770f0f5c5",
+  "accounts": {
+    "4775f2e6612049eba670edc770f0f5c5": {
+      "accessToken": "eyJhbGciOiJIUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQxMzA3MTg2NzgwOCIsImFnZyI6IkFkdWx0Iiwic3ViIjoiZjQyOThiODMtMDYzZS00OGRiLWFiOWUtYWQ4ZTAxODg5YTViIiwibmJmIjoxNjQ5NzcyNTk1LCJhdXRoIjoiWEJPWCIsInJvbGVzIjpbXSwiaXNzIjoiYXV0aGVudGljYXRpb24iLCJleHAiOjE2NDk4NTg5OTUsImlhdCI6MTY0OTc3MjU5NSwicGxhdGZvcm0iOiJVTktOT1dOIiwieXVpZCI6IjYyM2E4YmJmOTZlZDJhNzY3ODI2NjExMTA3ZDM5MjA1In0.SdmKrH1ii7d4RFZBh4R3-X0Y2KDynUTeMFw8FgNKdxU",
+      "accessTokenExpiresAt": "2022-04-13T14:09:56.778267600Z",
+      "eligibleForMigration": false,
+      "hasMultipleProfiles": false,
+      "legacy": false,
+      "persistent": true,
+      "userProperites": [],
+      "localId": "4775f2e6612049eba670edc770f0f5c5",
+      "refreshToken": "M.R3_BL2.-CcGu7dZN52u9ReZpxkapnPgwPaMAM8FNSmcyjB1yufxzfGZ5HAn!en8M7kQ0vFnuexeAfcGwQ0DIw39An63cLnJmfDt!GoxiwZIor1oBLxJi8GGJ*kvwnXXfz!JhmQymV0zDV2g1SbrnV3wR97D*ZMQ6CGocSTXYZ9xBugL3GpApmXuETROig2XzWkD1UczTdZXBDxMcGbkRhrDRz5oLY2sSJRMFk6KgwngVOzVexPKcOUvlx*qdRRnCk6GFunn3T5NKwQ5ESFzHHEJegY7YrBw$",
+      "minecraftProfile": {
+        "id": "352598f631e947f9b76860d553d08dc6",
+        "name": "Mag1k4"
+      },
+      "remoteId": "2535413071867808",
+      "type": "Xbox",
+      "username": "Mag1k4"
+    }
+  }
+}
